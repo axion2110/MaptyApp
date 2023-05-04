@@ -26,7 +26,7 @@
 
 This is an app created with 'The Complete JavaScript Course" by Jonas Schmedtmann. 
 
-The main use of this app is for users to record the duration and location of their workout session. Users can 2 types of workout: running and cycling. All records will be displayed in a list and on the map. 
+The main use of this app is for users to record the duration and location of their workout session. Users can choose from 2 types of workout: running and cycling. All records will be displayed in a list and on the map. 
 
 For running, users can input distance, time, pace and steps/minutes.
 
